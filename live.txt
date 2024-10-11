@@ -1,5 +1,5 @@
 📺｜珠江台,#genre#
-珠江台,http://183.6.110.241:9901/hls/1050/index.m3u8
+珠江台,http://14.29.76.30:9901/tsfile/live/1003_1.m3u8
 
 央视频道,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
